@@ -1,0 +1,6 @@
+messages:
+  enabled: '&6&l[MessageManager] &8- &eLoaded.'
+  disabled: '&6&l[MessageManager] &8- &eDisabled.'
+
+numbers:
+  number: 15052002
